@@ -14,6 +14,6 @@
         If Current <= 0 Then
             Timer1.Enabled = False
         End If
-        lblHitungMundur.Text = Current
+        lblHitungMundur.Text = Current + 12
     End Sub
 End Class
